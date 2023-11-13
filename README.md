@@ -11,6 +11,7 @@ chmod +x install_rust.sh
 chmod +x zsh.sh
 chmod +x git.sh
 chmod +x python.sh
+chmod +x nvm.sh
 
 
 
